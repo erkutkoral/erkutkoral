@@ -7,7 +7,7 @@ Skills: </a> <a href="https://learn.microsoft.com/en-us/office/vba/library-refer
   
   
 - 🔭 I’m currently working on SQL. 
-- 🌱 I’m currently learning Data Science with Python 
+- 🌱 I’m currently learning Oracle SQL/ PL/SQL 
 - 📫 How to reach me: erkut.koral@gmail.com 
 
 
