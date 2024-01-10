@@ -1,13 +1,15 @@
 ![](https://raw.githubusercontent.com/erkutkoral/erkutkoral/main/header.png)
 
-Industrial Engineering student from İzmir/Turkey. 
-Finished my senior year and I did my undergraduate thesis in data science field. Right now I'm in a gap time, looking for internship to graduate.
+Industrial Engineer skilled in Data Science.
+As an industrial engineer, I am passionate about data science and its applications in various domains .My goal is to pursue a career in data science and contribute to innovative and impactful end to end solutions.
+- Proficient in Python(mostly data libraries), SQL, Machine Learning, PowerBI and Tableau.
+- Currently expanding my horizons with Docker and Kubernetes, orchestrating solutions with Jenkins, and delving into the world of Rest API and RabbitMq. It's a work in progress but I believe every learning step is a step forward.
 
 Skills: </a> <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/></a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/></a> <a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/></a> <a href="https://pypi.org/" target="_blank" rel="noreferrer"> </a> <a href="https://pypi.org/" target="_blank" rel="noreferrer"> <img src="https://dbdb.io/media/logos/ibm-db2-vertical.svg" width="40" height="40"/>
   
   
 - 🔭 I’m currently working on Data Analytics and Machine Learning with Python. 
-- 🌱 I’m currently learning Python Programming curriculum in Datacamp. 
+- 🌱 I’m currently learning Statistics and Probability curriculum in Deeplearning.ai. 
 - 📫 How to reach me: erkut.koral@gmail.com 
 
 
