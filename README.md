@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/erkutkoral/erkutkoral/main/header.png)
 
 Industrial Engineer skilled in Data Science.
-As an industrial engineer, I am passionate about data science and its applications in various domains .My goal is to pursue a career in data science and contribute to innovative and impactful end to end solutions.
+As an industrial engineer, I am passionate about data science and its applications in various domains.My goal is to pursue a career in data science and contribute to innovative and impactful end to end solutions.
 - Proficient in Python(mostly data libraries), SQL, Machine Learning, PowerBI and Tableau.
 - Currently expanding my horizons with Docker and Kubernetes, orchestrating solutions with Jenkins, and delving into the world of Rest API and RabbitMq. It's a work in progress but I believe every learning step is a step forward.
 
