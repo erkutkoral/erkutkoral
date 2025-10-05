@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/erkutkoral/erkutkoral/main/header.png)
 
 Junior Data Scientist who is pursuing Data Science master of science degree in TU Vienna.
-AInterested in Data Science, Core Machine Learning and extracting information from the data. My goal is to pursue a career in data science and contribute to innovative and impactful end to end solutions.
+Interested in Data Science, Core Machine Learning and extracting information from the data. My goal is to pursue a career in data science and contribute to innovative and impactful end to end solutions.
 - Proficient in Python(mostly data libraries), SQL, Machine Learning, PowerBI and Tableau.
 - On the other hand, increasing my skills on development side, especially for asynchronous microservice architecture with API End Points (REST API, FAST API), RabbitMq, Docker.
 
