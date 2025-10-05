@@ -10,7 +10,7 @@ Skills: </a> <a href="https://learn.microsoft.com/en-us/office/vba/library-refer
   
 - 🔭 I’m currently working on Data Analytics and Machine Learning with Python. 
 - 🌱 I’m currently learning Statistics and Probability curriculum in Deeplearning.ai. 
-- 📫 How to reach me: erkut.koral@gmail.com 
+- 📫 How to reach me: linkedin.com/in/erkutkoral 
 
 
 <h3 align="left">Connect with me:</h3>
